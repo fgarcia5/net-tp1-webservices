@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AppWebAcademia.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppWebAcademia_WSAcademia_WebServiceAcademia" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8428/WSAcademia.asmx</Value>
+    </Setting>
+    <Setting Name="AppWebAcademia_WSWeather_Weather" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://wsf.cdyne.com/WeatherWS/Weather.asmx</Value>
+    </Setting>
+    <Setting Name="AppWebAcademia_WSGeoIP_GeoIPService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webservicex.net/geoipservice.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

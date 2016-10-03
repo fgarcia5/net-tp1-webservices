@@ -1,0 +1,12 @@
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\WebService.dll.config
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\WebService.dll
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\WebService.pdb
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\obj\Debug\WebService.dll
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\obj\Debug\WebService.pdb
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\Entidades.dll
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\Negocio.dll
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\Data.Database.dll
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\Entidades.pdb
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\Negocio.pdb
+C:\Net\TP1\TP1_V02.00\WebServiceAcademia\WebService\bin\Data.Database.pdb

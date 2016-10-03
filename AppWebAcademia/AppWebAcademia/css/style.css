@@ -1,0 +1,14 @@
+﻿
+#ImgTiempo{
+    position: absolute;
+}
+
+#contentImgWheater{
+    width: 500px;
+    margin: 20px 101px;
+    height: 30px;
+}
+
+#lblMessage{
+    margin: 20px;
+}

@@ -1,0 +1,24 @@
+C:\Net\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll.config
+C:\Net\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll
+C:\Net\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.pdb
+C:\Net\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.csprojResolveAssemblyReference.cache
+C:\Net\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.dll
+C:\Net\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.pdb
+C:\SourceCode\Facultad\NET2016\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll.config
+C:\SourceCode\Facultad\NET2016\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll
+C:\SourceCode\Facultad\NET2016\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.pdb
+C:\SourceCode\Facultad\NET2016\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.csprojResolveAssemblyReference.cache
+C:\SourceCode\Facultad\NET2016\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.dll
+C:\SourceCode\Facultad\NET2016\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.pdb
+C:\Users\Bangho Notebook\Desktop\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll.config
+C:\Users\Bangho Notebook\Desktop\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll
+C:\Users\Bangho Notebook\Desktop\TP1\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.pdb
+C:\Users\Bangho Notebook\Desktop\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.csprojResolveAssemblyReference.cache
+C:\Users\Bangho Notebook\Desktop\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.dll
+C:\Users\Bangho Notebook\Desktop\TP1\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.pdb
+C:\Net\TP1\TP1_V02.00\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll.config
+C:\Net\TP1\TP1_V02.00\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.dll
+C:\Net\TP1\TP1_V02.00\AppWebAcademia\AppWebAcademia\bin\AppWebAcademia.pdb
+C:\Net\TP1\TP1_V02.00\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.csprojResolveAssemblyReference.cache
+C:\Net\TP1\TP1_V02.00\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.dll
+C:\Net\TP1\TP1_V02.00\AppWebAcademia\AppWebAcademia\obj\Debug\AppWebAcademia.pdb
